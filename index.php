@@ -30,5 +30,6 @@ echo '<h1>My name is: '.$name.'</h1>';
 ?>
 
 <button class="btn btn-outline-warning"><a class="nav-link active" href="array.php">Click Here</a></button>
+<button class="btn btn-outline-success"><a class="nav-link active" href="array.php">Click Here</a></button>
 
 <?php require 'footer.php' ?>
